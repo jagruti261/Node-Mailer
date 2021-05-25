@@ -1,0 +1,13 @@
+NODE JS - > send mail from local form
+
+create folder for mail
+
+create js file
+
+hit following commnad in terminal for install node(package.json)
+-npm i
+-npm init
+
+
+install nodemaier packege
+--> npm i nodemaier
